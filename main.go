@@ -36,7 +36,6 @@ func defence(charName, charClass string) string {
 
 }
 
-// обратите внимание на "if else" и на "else"
 func special(charName, charClass string) string {
 
 	switch charClass {
