@@ -55,7 +55,6 @@ func special(charName, charClass string) string {
 
 }
 
-// здесь обратите внимание на имена параметров
 func startTraining(charName, charClass string) string {
 	if charClass == "warrior" {
 		fmt.Printf("%s, ты Воитель - отличный боец ближнего боя.\n", charName)
