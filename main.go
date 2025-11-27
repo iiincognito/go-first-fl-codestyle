@@ -94,7 +94,6 @@ func startTraining(charName, charClass string) string {
 	return "тренировка окончена"
 }
 
-// обратите внимание на имя функции и имена переменных
 func CharClass() string {
 	var approveChoice string
 	var charClass string
